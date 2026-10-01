@@ -1,1 +1,7 @@
-/output/
+/*.bmp
+/input/*.bmp
+!/input/nature.bmp
+!/input/portrait.bmp
+/*.d
+/*.o
+/weave
